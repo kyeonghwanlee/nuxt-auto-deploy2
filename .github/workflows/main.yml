@@ -7,7 +7,7 @@ on:
 
 # 환경설정
 env:
-  DOCKER_IMAGE: ghcr.io/${{ github.actor }}/nuxt-auto-deploy
+  DOCKER_IMAGE: ghcr.io/${{ github.actor }}/nuxt-auto-deploy2
   VERSION: ${{ github.sha }}
   CONTANIER_NAME1: nuxt-auto-deploy1
   CONTANIER_NAME2: nuxt-auto-deploy2
